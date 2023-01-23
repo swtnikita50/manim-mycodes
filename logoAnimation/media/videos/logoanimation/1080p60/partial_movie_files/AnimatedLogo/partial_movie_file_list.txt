@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/NIKKY/GitHub/manim-trial-run/logoAnimation/media/videos/logoanimation/1080p60/partial_movie_files/AnimatedLogo/3180603658_1848892789_223132457.mp4'
+file 'file:D:/NIKKY/GitHub/manim-trial-run/logoAnimation/media/videos/logoanimation/1080p60/partial_movie_files/AnimatedLogo/1854636345_4113278186_1078998981.mp4'
+file 'file:D:/NIKKY/GitHub/manim-trial-run/logoAnimation/media/videos/logoanimation/1080p60/partial_movie_files/AnimatedLogo/1854636345_1815008062_3952350714.mp4'
